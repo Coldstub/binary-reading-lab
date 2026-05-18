@@ -1,0 +1,30 @@
+# Build outputs / binaries
+*.o
+*.out
+*.exe
+*.so
+*.dll
+*.dylib
+*.a
+
+# Core dumps
+core
+core.*
+*.core
+
+# IDA local databases
+*.i64
+*.idb
+*.id0
+*.id1
+*.id2
+*.id3
+*.id4
+*.nam
+*.til
+
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+*.swp
+*~
